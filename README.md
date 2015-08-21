@@ -1,2 +1,2 @@
-# media
-Media (images, logos, etc) for spider
+# Spider Media
+A simple repository for logos, graph diagrams, and such.
